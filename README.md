@@ -36,7 +36,7 @@ Credits:
 3. https://github.com/MasterLua WaveShield.
 # [INFO]
 **If u want u can send more anticheats on my discord and i will update this repository!** <br>
-Remember: API > ALL
+Remember: API > ALL!
 
 # [Discord]
 definitely not PK!?#1337 <br>
