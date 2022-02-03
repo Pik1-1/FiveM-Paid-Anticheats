@@ -27,7 +27,7 @@
 21. **POWERAC** - source and auth. Pasted shit.
 22. **MoonLight** - source. Self-Leaked
 
-Enjoy and have fun..
+Enjoy and have fun.
 
 
 Credits:
