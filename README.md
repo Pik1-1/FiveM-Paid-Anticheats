@@ -26,6 +26,7 @@
 20. **FIREAC-NEW-SOURCE** - server side source updated fireac. 
 21. **POWERAC** - source and auth. Pasted shit.
 22. **MoonLight** - source. Self-Leaked
+23. **LCAC** - source.
 
 Enjoy and have fun.
 
@@ -34,13 +35,14 @@ Credits:
 1. https://github.com/Korioz Fuxia.
 2. https://github.com/maciasexe Choco10.
 3. https://github.com/MasterLua WaveShield.
+4. ProsMisterie#3879 - LCAC.
 # [INFO]
 **If u want u can send more anticheats on my discord and i will update this repository!** <br>
 Remember: API > ALL!
 
 # [Discord]
 definitely not PK!?#1337 <br>
-https://discord.gg/pEW7vER <br>
+https://discord.gg/stz4nCkhZp <br>
 https://apiac.xyz/
 
 
