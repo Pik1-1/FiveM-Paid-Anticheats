@@ -28,6 +28,7 @@
 22. **MoonLight** - source. Self-Leaked
 23. **LCAC** - source.
 24. **DELTA_AC_SOURCE** - source 
+25. **dnz_protector** - source deobfuscated thanks for oxince#1337 for sending it! btw. dnz please dont talk about me....
 Enjoy and have fun!
 
 
@@ -36,6 +37,7 @@ Credits:
 2. https://github.com/maciasexe Choco10.
 3. https://github.com/MasterLua WaveShield.
 4. ProsMisterie#3879 - LCAC.
+5. oxince#1337 - dnz_protector.
 # [INFO]
 **If u want u can send more anticheats on my discord and i will update this repository!** <br>
 Remember: API > ALL!
