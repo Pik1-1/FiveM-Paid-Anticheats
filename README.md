@@ -27,8 +27,7 @@
 21. **POWERAC** - source and auth. Pasted shit.
 22. **MoonLight** - source. Self-Leaked
 23. **LCAC** - source.
-24. **DELTA_AC_SOURCE** - source 
-25. **dnz_protector** - source deobfuscated thanks for oxince#1337 for sending it! btw. dnz please dont talk about me....
+24. **dnz_protector** - source deobfuscated thanks for oxince#1337 for sending it! btw. dnz please dont talk about me....
 Enjoy and have fun!
 
 
