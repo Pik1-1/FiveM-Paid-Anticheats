@@ -28,6 +28,7 @@
 22. **MoonLight** - source. Self-Leaked
 23. **LCAC** - source.
 24. **dnz_protector** - source deobfuscated thanks for oxince#1337 for sending it! btw. dnz please dont talk about me....
+25. **de|ta-x** - source **DELETED BECAUSE SNITCH writted to github about (COPYRIGHTS) XDDDDD :)
 Enjoy and have fun!
 
 
